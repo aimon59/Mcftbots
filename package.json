@@ -1,0 +1,6 @@
+{
+  "name": "mc-bot",
+  "version": "1.0.0",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": { "mineflayer": "latest" }
+}
